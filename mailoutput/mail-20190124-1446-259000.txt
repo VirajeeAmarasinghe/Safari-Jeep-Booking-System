@@ -1,0 +1,5 @@
+To: virajee.hiranthika@gmail.com
+Subject: Checking PHP mail
+From:test@hostinger-tutorials.com
+
+PHP mail works just fine
